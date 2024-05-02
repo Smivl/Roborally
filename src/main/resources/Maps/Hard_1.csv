@@ -1,0 +1,14 @@
+belt_east_1,belt_east_1,belt_east_1,wall,belt_south_1,lava,belt_north_1,tile,tile,tile,belt_east_1,belt_east_1,belt_east_1,belt_east_1
+belt_north_2,tile,charger,laser_vertical,belt_south_1,charger,belt_north_1,tile,lava,lava,belt_north_1,tile,tile,belt_north_1
+belt_north_2,charger,tile,laser_vertical,belt_south_1,win,belt_north_1,tile,lava,lava,belt_north_1,tile,tile,belt_north_1
+belt_north_2,belt_east_1,belt_east_1,wall,belt_east_1,belt_east_1,belt_north_1,tile,tile,tile,belt_west_1,belt_west_1,lava,belt_north_1
+belt_north_2,tile,tile,tile,tile,tile,tile,tile,tile,tile,tile,belt_north_1,lava,belt_north_1
+belt_north_2,tile,charger,tile,charger,tile,tile,wall,laser_horizontal,laser_horizontal,wall,belt_north_1,tile,belt_north_1
+belt_north_2,belt_west_1,belt_west_1,belt_west_1,belt_west_1,tile,tile,laser_vertical,tile,tile,tile,belt_north_1,bomb,belt_north_1
+belt_north_2,tile,tile,tile,belt_north_1,gear_clockwise,gear_clockwise,laser_vertical,tile,tile,tile,belt_north_1,belt_west_1,belt_north_1
+belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,tile,tile,laser_vertical,tile,tile,tile,belt_north_1,belt_north_1,tile
+lava,tile,tile,teleportation,belt_north_1,tile,tile,wall,tile,tile,tile,belt_north_1,belt_north_1,tile
+lava,tile,bomb,charger,belt_north_1,tile,tile,tile,tile,tile,tile,belt_north_1,belt_north_1,tile
+belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,wall
+tile,tile,tile,tile,tile,tile,tile,tile,tile,tile,tile,tile,tile,wall
+spawn,bomb,spawn,teleportation,spawn,lava,bomb,spawn,charger,spawn,bomb,spawn,charger,wall

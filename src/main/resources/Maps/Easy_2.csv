@@ -1,0 +1,10 @@
+charger,belt_south_1,belt_south_1,win,tile,tile,tile,tile,tile,tile
+tile,belt_south_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1
+tile,belt_south_1,lava,tile,tile,wall,tile,charger,belt_north_1,belt_west_1
+tile,belt_south_1,charger,charger,charger,laser_vertical,bomb,tile,belt_north_1,tile
+belt_east_1,belt_south_1,wall,laser_horizontal,laser_horizontal,wall,laser_horizontal,wall,belt_north_1,tile
+belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_north_1,tile
+tile,gear_clockwise,tile,tile,tile,tile,tile,tile,gear_counter,tile
+belt_north_2,tile,tile,tile,wall,wall,tile,tile,tile,belt_north_2
+tile,spawn,wall,tile,tile,tile,tile,wall,spawn,tile
+spawn,tile,tile,tile,spawn,spawn,tile,tile,tile,spawn

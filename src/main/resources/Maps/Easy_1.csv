@@ -1,0 +1,10 @@
+tile,bomb,tile,tile,tile,win,tile,tile,tile,tile
+tile,tile,tile,tile,lava,tile,tile,tile,tile,tile
+belt_north_2,belt_south_2,gear_counter,wall,laser_horizontal,wall,laser_horizontal,laser_horizontal,laser_horizontal,wall
+teleportation,bomb,bomb,charger,charger,laser_vertical,tile,tile,tile,tile
+wall,checkpoint,wall,laser_horizontal,laser_horizontal,wall,tile,tile,tile,tile
+belt_south_2,tile,tile,tile,tile,lava,lava,lava,checkpoint,gear_clockwise
+belt_north_1,tile,tile,tile,tile,tile,tile,tile,gear_counter,tile
+belt_east_2,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_2
+tile,spawn,teleportation,tile,bomb,tile,tile,tile,spawn,tile
+tile,tile,spawn,tile,spawn,spawn,tile,spawn,tile,teleportation

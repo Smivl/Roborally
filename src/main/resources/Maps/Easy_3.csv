@@ -1,0 +1,14 @@
+belt_south_1,tile,belt_north_1,tile,belt_south_1,tile,tile,tile,tile,tile,tile,tile,tile,tile
+belt_south_1,tile,belt_north_1,tile,belt_south_1,tile,belt_south_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,wall,wall
+belt_south_1,win,belt_north_1,tile,belt_south_1,tile,belt_south_1,tile,charger,tile,tile,tile,tile,spawn
+belt_south_1,tile,belt_north_1,tile,belt_south_1,wall,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_east_1,wall,wall
+belt_south_1,tile,belt_north_1,wall,belt_south_1,tile,wall,tile,tile,tile,tile,tile,tile,spawn
+belt_east_1,belt_east_1,belt_north_1,wall,belt_south_1,tile,tile,tile,tile,tile,tile,tile,wall,wall
+tile,tile,wall,belt_south_1,belt_west_1,tile,tile,belt_south_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,tile,spawn
+belt_west_1,belt_west_1,wall,belt_south_1,tile,tile,belt_south_1,belt_west_1,tile,tile,tile,tile,wall,wall
+tile,belt_north_1,belt_south_1,belt_west_1,tile,tile,belt_south_1,wall,belt_south_1,belt_west_1,belt_west_1,tile,tile,spawn
+tile,belt_west_1,belt_south_1,tile,tile,tile,belt_south_1,tile,belt_south_1,tile,belt_north_1,tile,wall,wall
+tile,tile,tile,tile,tile,tile,belt_south_1,tile,belt_south_1,charger,belt_north_1,tile,tile,spawn
+belt_west_1,belt_west_1,belt_west_1,belt_west_1,belt_west_1,wall,belt_south_1,lava,belt_south_1,tile,belt_north_1,tile,tile,wall
+tile,tile,charger,tile,belt_north_1,tile,belt_south_1,lava,belt_south_1,tile,belt_north_1,tile,tile,spawn
+belt_east_1,belt_east_1,belt_east_1,belt_east_1,belt_north_1,tile,belt_south_1,tile,belt_south_1,tile,belt_north_1,tile,wall,wall
